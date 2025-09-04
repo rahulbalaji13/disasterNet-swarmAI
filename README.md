@@ -2,6 +2,13 @@
 
 Main idea: IoT device used to sense the type of disaster with environmental conditions and attached camera to capture surrounding and map with existing one.
 
+Workflow:
+
+
+<img width="400" height="400" alt="proj" src="https://github.com/user-attachments/assets/21d4ee06-219d-4421-825e-c70ca9ddd0ba" />
+
+
+
 What is the possible type of disaster?
 1.	Forest fire 
 2.	Flood
