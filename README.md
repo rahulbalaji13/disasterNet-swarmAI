@@ -4,11 +4,11 @@
 
 Main idea: IoT device used to sense the type of disaster with environmental conditions and attached camera to capture surrounding and map with existing one.
 
+Dataset Link ===> https://www.kaggle.com/datasets/rahul13289/disaster-swarm-edge-simulated-datasaet/data
+
 Workflow:
 
-
 <img width="800" height="400" alt="proj" src="https://github.com/user-attachments/assets/21d4ee06-219d-4421-825e-c70ca9ddd0ba" />
-
 
 
 What is the possible type of disaster?
