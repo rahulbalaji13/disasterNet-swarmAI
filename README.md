@@ -1,0 +1,42 @@
+# Swarm-Enabled Edge Intelligence for Disaster Response IoT Systems
+
+# Main idea: IoT device used to sense the type of disaster with environmental conditions and attached camera to capture surrounding and map with existing one.
+
+What is the possible type of disaster?
+1.	Forest fire 
+2.	Flood
+3.	Earthquake 
+
+# Device Type	Purpose
+
+Environmental sensors	Fire, gas, humidity, temperature monitoring
+Drones / Robots	Surveillance, navigation, payload delivery
+Wearables	First responder health monitoring
+Edge Gateways	Data aggregation and local AI processing
+GPS Modules	Location tracking for rescue coordination
+
+# Disaster Type	Detection Devices / Methods	AI Training Capabilities	Response Actions (Drones / Robots / Edge)
+
+🌋 Earthquake	Accelerometers (MPU6050), vibration sensors	Classify tremors, predict aftershocks	Swarm drones map damage; robots locate and rescue trapped individuals
+🔥 Fire / Wildfire	Flame sensors, temperature sensors (DHT22), gas sensors (MQ2), cameras	Smoke/flame detection from vision data; temperature anomaly detection	Drones monitor fire spread with thermal imaging; robots aid in evacuation and safe pathfinding
+🌊 Flood	Ultrasonic sensors (for water level), rainfall sensors, satellite + historical data	Predict flooding zones using edge-trained historical and real-time sensor data	Drones scout flooded zones; robots assist in shallow water rescue
+💨 Cyclone / Hurricane	Barometric pressure sensors, weather APIs	Predict cyclone landfall zones and intensity	Drones monitor infrastructure; edge nodes send evacuation alerts
+🌪️ Tornado	Wind sensors, pressure drop indicators, radar/satellite imaging	Train with wind pattern data and visual funnel cloud detection	Swarm bots assess debris field; alert system reroutes responders safely
+🌧️ Landslide	Soil moisture + tilt sensors, vibration sensors	Slope failure prediction using ML based on weather + terrain	Drones assess slope safety; robots navigate unstable terrain
+🔌 Industrial Accident	MQ2/MQ135 gas sensors, visual detection of leaks or smoke	Gas threshold anomaly detection and visual leak recognition	Robots contain spill or guide rescue; drones identify chemical zones
+💥 Explosion / Bombing	Sound sensors, temperature spikes, sudden motion (shock sensors), visual analysis	AI trained on explosion patterns from camera feeds and sensor fusion	Drones provide overhead imaging; robots investigate debris zones
+🏚️ Building Collapse	Accelerometers, vibration/load sensors, cameras	AI detects visual cracks, sudden structural movements	Robots locate survivors under rubble; drones guide emergency responders
+☢️ Nuclear/Radiation Leak	Geiger counter, radiation sensor modules	Train AI models on radiation intensity, hotspot detection using distributed sensors	Robots enter radiation zones; drones measure air contamination
+
+# SAMPLE DATASET
+
+•	Resilience under Constraint
+Disasters often disrupt connectivity and limit power/resources—making edge-based, swarm-coordinated intelligence essential for sustained situational awareness and response.
+•	Accurate, Real-Time Mapping & Detection
+Visual change detection, coupled with environmental anomaly analysis, supports fast and reliable disaster classification and local impact assessment.
+•	Adaptive, Collaborative Intelligence
+Leveraging swarm and distributed learning offers robustness, scalability, and privacy-aware adaptation—even under heterogeneous and dynamic field conditions.
+
+# Owner
+
+Made with ❤️ by Rahul Balaji
