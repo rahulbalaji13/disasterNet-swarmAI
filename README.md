@@ -1,4 +1,8 @@
-# Swarm-Enabled Edge Intelligence for Disaster Response IoT Systems
+<img width="2048" height="2048" alt="Gemini_Generated_Image_cywpczcywpczcywp" src="https://github.com/user-attachments/assets/3682e88c-c63b-4b40-a81f-d91a67c02096" /># Swarm-Enabled Edge Intelligence for Disaster Response IoT Systems
+
+
+<img width="800" height="800" alt="Gemini_Generated_Image_cywpczcywpczcywp" src="https://github.com/user-attachments/assets/c2f3e7d3-84aa-4a0f-9973-4c9b25dfd8c3" />
+
 
 Main idea: IoT device used to sense the type of disaster with environmental conditions and attached camera to capture surrounding and map with existing one.
 
