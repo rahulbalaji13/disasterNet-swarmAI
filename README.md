@@ -5,7 +5,7 @@ Main idea: IoT device used to sense the type of disaster with environmental cond
 Workflow:
 
 
-<img width="400" height="400" alt="proj" src="https://github.com/user-attachments/assets/21d4ee06-219d-4421-825e-c70ca9ddd0ba" />
+<img width="800" height="800" alt="proj" src="https://github.com/user-attachments/assets/21d4ee06-219d-4421-825e-c70ca9ddd0ba" />
 
 
 
